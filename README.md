@@ -1,27 +1,46 @@
-👋 Welcome to Cody Nunn’s GitHub
+# 👋 Hey, I'm Cody Nunn
 
-Hi there! I’m Cody Nunn, a digital creator and passionate problem solver diving deep into the world of tech and development. When I’m not crafting engaging content or running my TikTok Shop, you’ll find me here, exploring innovative solutions, creating projects, and learning something new every day.
+### 🚀 Founder @ Nunn Corporation | Builder of Future-Tech | Hardwired for Innovation
 
-🚀 About Me
-	•	🌟 Digital Creator: Turning ideas into stories that resonate across platforms.
-	•	🛍️ E-Commerce Enthusiast: Owner of Cody Nunn318, a TikTok Shop specializing in shoes, accessories, and unique finds for men and women.
-	•	💻 Aspiring Developer: Exploring coding, web development, and open-source contributions to bring creative projects to life.
+I'm a hands-on CEO with a passion for building efficient, scalable, and ethical technology. Whether it's prototyping breakthrough tools or writing bulletproof code, I'm always in the trenches turning big ideas into deployable solutions.
 
-🎯 What You’ll Find Here
+---
 
-This GitHub is a growing repository of:
-	•	Creative projects that combine design and function.
-	•	Practical tools for content creation and e-commerce workflows.
-	•	Fun experiments and code explorations.
+## 🧰 Tech Stack
+![Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css,react,node,tailwind,mysql,postgres,aws,linux,bash,docker)
 
-💡 Let’s Connect
+I build:
+- 🔧 Full-stack platforms
+- 🧠 AI-powered tools
+- ⚙️ Scalable backend architectures
+- 📱 Responsive UIs with bleeding-edge design
 
-I’m always looking to collaborate, learn, and share knowledge. If you have ideas, opportunities, or just want to chat, feel free to reach out:
-	•	TikTok: @codynunn42 or CodyNunn318
-	•	GitHub: You’re already here!
-	•	Email: codynunn42@gmail.com
+---
 
-<!---
-Codynunn42/Codynunn42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈 GitHub Stats
+
+![Cody's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default&count_private=true&hide_rank=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+
+---
+
+## 📂 Featured Repos
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔗 [**NextGen CRM**](https://github.com/YourGitHubUsername/NextGen-CRM) | An AI-driven CRM system with predictive lead scoring and full automation. | `React`, `Node.js`, `MongoDB`, `OpenAI API` |
+| 🛠️ [**FleetOps**](https://github.com/YourGitHubUsername/FleetOps) | Vehicle fleet tracking & optimization platform with live data feeds. | `Python`, `FastAPI`, `PostgreSQL`, `Docker` |
+| 📡 [**IoT Command Center**](https://github.com/YourGitHubUsername/IoT-Command-Center) | Secure interface for managing and updating IoT firmware remotely. | `C++`, `MQTT`, `AWS IoT Core` |
+
+---
+
+## 🔗 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CodyNunn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![Website](https://img.shields.io/badge/Website-nunncorp.com-black?style=for-the-badge)](https://nunncorp.com)
+[![Email](https://img.shields.io/badge/Email-cody@nunncorp.com-blue?style=for-the-badge)](mailto:cody@nunncorp.com)
+
+---
+
+> 💬 “Code is a business asset. I write it like I own the company—because I do.”
+
